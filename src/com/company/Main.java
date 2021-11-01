@@ -12,7 +12,7 @@ public class Main {
                 System.out.println("Sehr gut");
                 break;
             case '2':
-                System.out.println("Gut");
+                System.out.println("Gutt");
                 break;
             case '3':
                 System.out.println("Befriedigend");
